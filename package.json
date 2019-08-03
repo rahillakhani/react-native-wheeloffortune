@@ -1,0 +1,19 @@
+{
+  "name": "react-native-wheeloffortune",
+  "version": "1.0.0",
+  "description": "react-native-wheeloffortune",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahillakhani/react-native-wheeloffortune.git"
+  },
+  "author": "rahillakhani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahillakhani/react-native-wheeloffortune/issues"
+  },
+  "homepage": "https://github.com/rahillakhani/react-native-wheeloffortune#readme"
+}
